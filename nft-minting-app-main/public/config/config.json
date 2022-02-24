@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x604FA6Ec2D4503b204f7FDb0AD59Af4950C9BF4F",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x604fa6ec2d4503b204f7fdb0ad59af4950c9bf4f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "KAGUTSUCHİ",
+  "SYMBOL": "KGNFT",
+  "MAX_SUPPLY": 3,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/kagutsuchi",
+  "SHOW_BACKGROUND": true
+}
